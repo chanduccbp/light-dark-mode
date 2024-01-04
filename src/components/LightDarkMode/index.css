@@ -1,0 +1,25 @@
+/* Write your CSS here */
+
+.dark-mode {
+  background-color: #000000;
+  padding: 30px;
+  color: #ffffff;
+  font-family: 'roboto';
+  text-align: center;
+}
+
+.light-mode {
+  border-style: solid;
+  background-color: #ffffff;
+  padding: 30px;
+  color: #000000;
+  font-family: 'roboto';
+  text-align: center;
+}
+
+.bg-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
